@@ -1,0 +1,7 @@
+p {
+    font-size: 100px;
+}
+
+a[target="_blank"] {
+    color: brown;
+}
